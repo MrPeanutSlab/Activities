@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.7",
+  "author": {
+    "name": "itsPeanutttt",
+    "id": "208757218013609985"
+  },
+  "service": "PeanFM",
+  "description": {
+    "en": "PeanFM is a web radio service by Pean Logistics featuring multiple stations and genres."
+  },
+  "url": "radio.plvtc.com",
+  "version": "1.0.0",
+  "logo": "https://cdn.plvtc.com/cdn/logos/white-logo.png",
+  "thumbnail": "https://cdn.plvtc.com/cdn/logos/white-logo.png",
+  "color": "#b77c42",
+  "tags": ["radio", "music", "pean"],
+  "category": "music"
+}
